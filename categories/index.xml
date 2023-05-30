@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Studio Legale Radici - Avvocato a Lucca</title>
-    <link>http://www.studiolegaleradici.it/categories/</link>
+    <link>https://studiolegaleradici.github.io/categories/</link>
     <description>Recent content in Categories on Studio Legale Radici - Avvocato a Lucca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +1300</lastBuildDate><atom:link href="http://www.studiolegaleradici.it/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +1300</lastBuildDate><atom:link href="https://studiolegaleradici.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diritto di famiglia</title>
-      <link>http://www.studiolegaleradici.it/categories/diritto-di-famiglia/</link>
+      <link>https://studiolegaleradici.github.io/categories/diritto-di-famiglia/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +1300</pubDate>
       
-      <guid>http://www.studiolegaleradici.it/categories/diritto-di-famiglia/</guid>
+      <guid>https://studiolegaleradici.github.io/categories/diritto-di-famiglia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diritto privato</title>
-      <link>http://www.studiolegaleradici.it/categories/diritto-privato/</link>
+      <link>https://studiolegaleradici.github.io/categories/diritto-privato/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +1300</pubDate>
       
-      <guid>http://www.studiolegaleradici.it/categories/diritto-privato/</guid>
+      <guid>https://studiolegaleradici.github.io/categories/diritto-privato/</guid>
       <description></description>
     </item>
     
